@@ -136,6 +136,15 @@ body{
     #header{
         z-index:0;
     }
+
+}
+
+@media screen and (max-width: 768px){
+    #header{
+        display: none;
+    }
+    
+
 }
 
 /* #site-main */
